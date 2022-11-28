@@ -65,3 +65,33 @@ td {
 .blancus {
     background-color: white;
 }
+
+h4 {
+    color: grey;
+}
+
+.fine {
+    width: 312px;
+    height: 208px;
+    padding-top: 20px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+.fine2 {
+    width: 311px;
+    height: 207px;
+    padding-top: 20px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+
+}
