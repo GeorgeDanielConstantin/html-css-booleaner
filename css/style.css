@@ -3,12 +3,21 @@
 }
 
 header {
-    height: 200px;
+    height: 150px;
     background-image: url('../img/pattern.png');
+    background-color: lightblue;
 }
 
-h1 {
-    margin-top: 20px;
+.titolo {
+    
+}
+
+#tuma {
+    padding-top: 40px;
+    color: white;
+    width: 170px;
+    text-align: center;
+    font-weight: bolder;
 }
 
 a {
@@ -16,7 +25,7 @@ a {
 }
 
 .sottotitolo {
-    text-decoration: grey;
+    color: grey;
     font-style: italic;
 }
 
@@ -34,4 +43,25 @@ section {
 
 .evidenziatore {
     background-color: yellow;
+}
+
+tbody {
+    text-align: left;
+}
+
+th {
+    background-color: rgb(31, 170, 229);
+    color: white;
+}
+
+td {
+    padding-right: 50px;
+}
+
+.celestino {
+    background-color: #b1e5f2;
+}
+
+.blancus {
+    background-color: white;
 }
